@@ -10,7 +10,7 @@ REVISION    DATE        by      Description
 
 int main()
 {
-    printf("Hello GIT");
-
+     printf("Hello GIT");
+      
     return 0;
 }
